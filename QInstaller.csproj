@@ -7,6 +7,9 @@
     <RootNamespace>QInstaller</RootNamespace>
     <Company>WearBBS</Company>
     <Authors>JackuXL</Authors>
+    <Description>实现APK安装全自动。</Description>
+    <Copyright>(c) 2021 JackuXL 保留所有权利。</Copyright>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
   </PropertyGroup>
 
 </Project>
